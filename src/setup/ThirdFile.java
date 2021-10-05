@@ -2,7 +2,10 @@ package setup;
 
 public class ThirdFile {
 
-    // third file of Rashid
 
+    public static void main(String[] args) {
+
+        System.out.println("Third File ");
+    }
 
 }
